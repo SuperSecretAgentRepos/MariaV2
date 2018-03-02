@@ -1916,7 +1916,6 @@
 			border-style: solid;
 			border-top-width: 1px;
 			margin-bottom: 6em;
-			padding: 4em 0;
 			position: relative;
 		}
 
@@ -2754,7 +2753,7 @@
 		/* Header */
 
 			#header {
-				padding: 8em 0 16em 0;
+				padding: 3% 0 26% 0;
 			}
 
 				#header h1 {
@@ -2823,8 +2822,8 @@
 
 			#header {
 				background-attachment: scroll,							scroll,							scroll;
-				background-image: url();
-				background-size: 1600px 230px,					auto,							cover;
+				background-image: url('Maria2/images/profile/front-maria.JPG');
+				background-size: cover;
 				padding: 6em 0 12em 0;
 			}
 
